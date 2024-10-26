@@ -30,7 +30,7 @@ code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
 
-theme: typing
+# theme: typing
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
@@ -98,6 +98,8 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: typing
+# theme: next
+
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
